@@ -87,6 +87,7 @@ ssh-keygen
 <img src="https://github.com/RaniiaAshraf/Jenkins/blob/main/day2/pics/10.png" width="800" height"500">
 </div>
 #### integrate slack with jenkins
+
 <div>
 <img src="https://github.com/RaniiaAshraf/Jenkins/blob/main/day2/pics/12.png" width="800" height"500">
 </div>
