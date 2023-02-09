@@ -89,6 +89,7 @@ ssh-keygen
 <div>
 <img src="https://github.com/RaniiaAshraf/Jenkins/blob/main/day2/pics/12.png" width="800" height"500">
 </div>
+
 ### send slack message when stage in your pipeline is successful
 <div>
 <img src="https://github.com/RaniiaAshraf/Jenkins/blob/main/day2/pics/15.png" width="800" height"500">
@@ -100,6 +101,7 @@ ssh-keygen
 <img src="https://github.com/RaniiaAshraf/Jenkins/blob/main/day2/pics/Screenshot%20from%202023-02-09%2020-29-08.png" width="800" height"500">
 <img src="https://github.com/RaniiaAshraf/Jenkins/blob/main/day2/pics/18.png" width="800" height"500">
 </div>
+
 ### fork the following repo https://github.com/mahmoud254/Booster_CI_CD_Project and add dockerfile to run this django app and use github actions to build the docker image and push it to your dockerhub
 #### Dockerfile
 ```
