@@ -1,5 +1,6 @@
 # Jenkins
-## Day2
+## Day1 answered in day1/day1-jenkins.pdf
+## Day2 brief commands 
 ### configure jenkins image to run docker commands on your hos docker daemon
 ```
 # Use the official Jenkins image as the base image
