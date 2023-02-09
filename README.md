@@ -21,4 +21,6 @@ RUN usermod -aG docker jenkins
 ### create CI/CD for this repo https://github.com/mahmoud254/jenkins_nodejs_example.git
 <div>
 <img src="https://github.com/RaniiaAshraf/Jenkins/blob/main/day2/pics/new.png" width="800" height"500">
+<img src="https://github.com/RaniiaAshraf/Jenkins/blob/main/day2/pics/5.png" width="800" height"500">
 </div>
+
